@@ -56,11 +56,11 @@ encoded_str = """RHINT TLHYF EIXQF AXTNK AFYFV QTRNF EHFEI XQFAD
 # Letter freqs in order: ETAOINSRHLDCUMFPGWYBVKXJQZ
 
 char_map_test = {
-    'T': 'E', 'I': 'A', 'X': 't', 'F': 'o', 'A': 'i',
-    'Q': 'n', 'R': 'S', 'E': 'r', 'N': 'C', 'Y': 'l',
-    'H': 'P', 'K': 'C', 'C': 'u', 'S': 'm', 'G': 'f',
-    'U': 'd', 'O': 'g', 'M': 'w', 'D': 'y', 'V': 'b',
-    'B': 'v', 'L': 'k', 'Z': 'x', 'W': 'j', 'J': 'q'
+    'T': 'E', 'I': 'A', 'X': 'T', 'F': 'O', 'A': 'N',
+    'Q': 'I', 'R': 'S', 'E': 'R', 'N': 'C', 'Y': 'L',
+    'H': 'P', 'K': 'H', 'C': 'D', 'S': 'U', 'G': 'F',
+    'U': 'Y', 'O': 'V', 'M': 'M', 'D': 'B', 'V': 'G',
+    'B': 'W', 'L': 'X', 'Z': 'K', 'W': 'Q', 'J': 'Z'
 }
 
 # print a representation of the dictionary sorted by keys
